@@ -11,9 +11,6 @@ The system includes a point of sale system also it manages Sellers, Admins and s
 * A Database is maintained for all Sellers, Categories and Products
 
 
-## Author
-**Sanchai Ahilan** - [LinkedIn](https://www.linkedin.com/in/sanchai-ahilan-j-k-812953222/)
-
 
 ## Prerequisites
 To run the Application, you'll have to have these installed
